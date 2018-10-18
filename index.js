@@ -17,7 +17,11 @@ if (ride <= 400) {
   
 }
 
-else if 
+else if (ride > 2000) {
+  return "I will gladly take your thirty bucks.";
+}
+
+
 
 
 function ternaryCheckCity(city) {
